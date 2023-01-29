@@ -1,4 +1,4 @@
-# <READNE.md Generator>
+# <README.md Generator>
 
 ## Description
 I was motivated to create the README.md Generator because I wanted to make a shortcut when generating a README file instead of tediously typing it out and searching up layouts online. This project creates a shortcut for users to generate a proffesional README file with pre loaded prompts.
